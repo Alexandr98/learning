@@ -4,13 +4,13 @@
   "description": "learning js",
   "main": "index.js",
   "dependencies": {
-    "editorconfig": "^0.15.0",
     "eslint": "^4.19.0",
-    "eslint-config-airbnb-base": "^12.1.0",
     "eslint-plugin-import": "^2.9.0",
     "eslint-plugin-json": "^1.2.0"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "jest": "^22.4.2"
+  },
   "scripts": {
     "test": "jest"
   },
