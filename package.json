@@ -1,0 +1,28 @@
+{
+  "name": "learning",
+  "version": "1.0.0",
+  "description": "learning js",
+  "main": "index.js",
+  "dependencies": {
+    "eslint": "^4.19.0",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.9.0",
+    "eslint-plugin-json": "^1.2.0",
+    "gitignore": "^0.6.0",
+    "prettier": "^1.11.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JsDaddy/learning.git"
+  },
+  "author": "JsDaddy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JsDaddy/learning/issues"
+  },
+  "homepage": "https://github.com/JsDaddy/learning#readme"
+}
