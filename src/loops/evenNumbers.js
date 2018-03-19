@@ -1,10 +1,10 @@
 export function evenNum(i, a) {
-  var arr = [];
+  let arr = [];
   for (i = 0; i < a; i++) {
     if (i % 2 === 0) {
       arr.push(i);
     }
-    return i;
   }
+  return arr;
 }
 evenNum(0, 10);
