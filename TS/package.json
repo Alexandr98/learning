@@ -1,0 +1,31 @@
+{
+  "name": "learning-type-script",
+  "version": "1.0.0",
+  "description": "learning ts",
+  "main": "index.js",
+  "dependencies": {
+    "eslint": "4.19.0",
+    "eslint-plugin-import": "2.9.0",
+    "eslint-plugin-json": "1.2.0",
+    "lodash": "^4.17.5",
+    "ts-lint": "4.5.1",
+    "tsconfig": "7.0.0",
+    "tslint": "5.9.1"
+  },
+  "devDependencies": {
+    "jest": "22.4.2"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JsDaddy/learning.git"
+  },
+  "author": "JsDaddy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JsDaddy/learning/issues"
+  },
+  "homepage": "https://github.com/JsDaddy/learning#readme"
+}
